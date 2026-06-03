@@ -5,5 +5,13 @@
     { "id": 3, "firstname": "Clara", "lastname": "Nguyen", "email": "clara@company.com", "department": "RH", "salary": 2600, "active": false },
     { "id": 4, "firstname": "David", "lastname": "Leroy", "email": "david@company.com", "department": "Finance", "salary": 3100, "active": true },
     { "id": 5, "firstname": "Emma", "lastname": "Bernard", "email": "emma@company.com", "department": "Informatique", "salary": 2900, "active": true }
+  ],
+
+  "interns":[
+     { "id": 1, "firstname": "Lucas", "lastname": "Petit", "email": "lucas@company.com", "department": "Informatique", "managerId": 1, "isRemunerate": true, "remuneration": 800, "active": true },
+    { "id": 2, "firstname": "Lea", "lastname": "Moreau", "email": "lea@company.com", "department": "Marketing", "managerId": 2, "isRemunerate": false, "remuneration": 0, "active": true },
+    { "id": 3, "firstname": "Hugo", "lastname": "Simon", "email": "hugo@company.com", "department": "Informatique", "managerId": 1, "isRemunerate": true, "remuneration": 700, "active": true },
+    { "id": 4, "firstname": "Sara", "lastname": "Lopez", "email": "sara@company.com", "department": "Finance", "managerId": 4, "isRemunerate": true, "remuneration": 900, "active": true },
+    { "id": 5, "firstname": "Tom", "lastname": "Garnier", "email": "tom@company.com", "department": "Marketing", "managerId": 2, "isRemunerate": false, "remuneration": 0, "active": true }
   ]
 }
